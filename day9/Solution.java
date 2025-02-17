@@ -29,7 +29,6 @@ class Solution {
                     matrix[i][j] = 1;
                 }else{
                     matrix[i][j] = 0;
-
                 }
             }
         }
